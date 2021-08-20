@@ -20,10 +20,10 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Aɴᴅ Pʟᴀʏ Mᴜsɪᴄ Fʀᴇᴇʟ�
                         "Oᴡɴᴇʀ😘", url="t.me/piroXpower")
                   ],[
                     InlineKeyboardButton(
-                        "Sᴜᴩᴩᴏʀᴛ👿", url="https://t.me/patricia_Support"
+                        "Sᴜᴩᴩᴏʀᴛ👿", url="https://t.me/DeadlyMusic_Support"
                     ),
                     InlineKeyboardButton(
-                        "Cʜᴀɴɴᴇʟ", url="https://t.me/patricia_updates"
+                        "Cʜᴀɴɴᴇʟ", url="https://t.me/DeadlyMusic_updates"
                     )
                 ],[ 
                     InlineKeyboardButton(
@@ -41,7 +41,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊Uᴩᴅᴀᴛᴇs", url="https://t.me/patricia_updates")
+                        "🔊Uᴩᴅᴀᴛᴇs", url="https://t.me/DeadlyMusic_updates")
                 ]
             ]
         )
