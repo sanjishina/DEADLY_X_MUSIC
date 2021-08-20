@@ -118,7 +118,7 @@ async def play(_, message: Message):
                 try:
                     await USER.join_chat(invitelink)
                     await USER.send_message(
-                        message.chat.id, "**Patricia Music assistant joined this group for play music 🎵**")
+                        message.chat.id, "**Deadly Music assistant joined this group for play music 🎵**")
 
                 except UserAlreadyParticipant:
                     pass
@@ -153,7 +153,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                         text="Channel 🔊",
-                        url="https://t.me/DeadlyMusic_updates")
+                        url="https://t.me/Deadly_techy")
                    
                 ]
             ]
@@ -201,7 +201,7 @@ async def play(_, message: Message):
             )
         except Exception as e:
             title = "NaN"
-            thumb_name = "https://telegra.ph/file/86df5e0db1f70a3f5580f.png"
+            thumb_name = "https://telegra.ph/file/058ad1489c0f4a3eb2a3b.jpg"
             duration = "NaN"
             views = "NaN"
             keyboard = InlineKeyboardMarkup(
