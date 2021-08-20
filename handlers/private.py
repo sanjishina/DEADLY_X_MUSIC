@@ -7,27 +7,27 @@ from helpers.filters import other_filters2
 
 @Client.on_message(other_filters2)
 async def start(_, message: Message):
-    await message.reply_photo("https://telegra.ph/file/37589911c048164588393.jpg")
+    await message.reply_photo("https://telegra.ph/file/058ad1489c0f4a3eb2a3b.jpg")
     await message.reply_text(
         f"""**Hey, I'm {bn} 🎀
-I Cᴀɴ Pʟᴀʏ Mᴜsɪᴄ Iɴ Yᴏᴜʀ Sᴇxʏ Gʀᴏᴜᴩ Vᴏɪᴄᴇ Cʜᴀᴛ. Dᴇᴠᴇʟᴏᴩᴇᴅ Bʏ [Bʟᴀᴢᴇ•Oᴩ](https://t.me/piroXpower).
+I Cᴀɴ Pʟᴀʏ Mᴜsɪᴄ Iɴ Yᴏᴜʀ Gʀᴏᴜᴩ Vᴏɪᴄᴇ Cʜᴀᴛ. Dᴇᴠᴇʟᴏᴩᴇᴅ Bʏ [Sᴀᴍᴇᴇʀ](https://t.me/OFFICIAL_SAMEER).
 Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Aɴᴅ Pʟᴀʏ Mᴜsɪᴄ Fʀᴇᴇʟʏ!**
         """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "Oᴡɴᴇʀ😘", url="t.me/piroXpower")
+                        "Oᴡɴᴇʀ😘", url="t.me/OFFICIAL_SAMEER")
                   ],[
                     InlineKeyboardButton(
-                        "Sᴜᴩᴩᴏʀᴛ👿", url="https://t.me/DeadlyMusic_Support"
+                        "Sᴜᴩᴩᴏʀᴛ👿", url="https://t.me/Deadly_USERBOT"
                     ),
                     InlineKeyboardButton(
                         "Cʜᴀɴɴᴇʟ", url="https://t.me/deadly_techy"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "➕ Gʀᴏᴜᴩ Mᴇ ᴅᴀʟᴅᴏ➕", url="https://t.me/BITTU_MUSICBOT?startgroup=true"
+                        "➕ Aᴅᴅ Mᴇ Iɴ Gʀᴘ ➕", url="https://t.me/DEADLY_VC_BOT?startgroup=true"
                     )]
             ]
         ),
