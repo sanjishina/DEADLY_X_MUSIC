@@ -3,7 +3,7 @@
     <a href="https://github.com/TEAM-PATRICIA/PatriciaMusic2.0"> <img src="https://img.shields.io/github/repo-size/TeamInnexia/innexiaBot?color=cyan&logo=github&logoColor=white&style=for-the-badge" /></a>
 </p>
 
-
+              
 # Pᴀᴛʀɪᴄɪᴀ•Mᴜsɪᴄ👮
 💡 This is Patricia An Advanced Telegram Music Bot For Best Experience  !! 🤖 
 
@@ -41,6 +41,6 @@
 
 ## 💡 How To Host ❓️
 The easiest way to deploy this Bot
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TEAM-PATRICIA/PatriciaMusic2.0"><img align="center" alt="Heroku" width="52px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/SAMEERPANTHI/DEADLY_X_MUSIC"><img align="center" alt="Heroku" width="52px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
  
 
