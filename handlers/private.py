@@ -23,7 +23,7 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Aɴᴅ Pʟᴀʏ Mᴜsɪᴄ Fʀᴇᴇʟ�
                         "Sᴜᴩᴩᴏʀᴛ👿", url="https://t.me/DeadlyMusic_Support"
                     ),
                     InlineKeyboardButton(
-                        "Cʜᴀɴɴᴇʟ", url="https://t.me/DeadlyMusic_updates"
+                        "Cʜᴀɴɴᴇʟ", url="https://t.me/deadly_techy"
                     )
                 ],[ 
                     InlineKeyboardButton(
@@ -41,7 +41,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊Uᴩᴅᴀᴛᴇs", url="https://t.me/DeadlyMusic_updates")
+                        "🔊Uᴩᴅᴀᴛᴇs", url="https://t.me/deadly_techy")
                 ]
             ]
         )
